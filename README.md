@@ -1,4 +1,4 @@
-# 5G and Software Radio Networks ([SLIDES](), [RECORDING](https://youtu.be/v_94xYNNmpo))
+# 5G and Software Radio Networks ([SLIDES](https://github.com/LauzHack/software-radio-5g-srsran/blob/main/SRS_LauzHack_Presentation.pdf), [RECORDING](https://youtu.be/v_94xYNNmpo))
 
 This talk was first given by [Brendan McAuliffe](https://www.linkedin.com/in/bmcaulif/) on May 22, 2024 as part of LauzHack's tech talk series.
 
