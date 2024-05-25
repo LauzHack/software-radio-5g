@@ -4,4 +4,4 @@ This talk was first given by [Brendan McAuliffe](https://www.linkedin.com/in/bmc
 
 Brendan presented [srsRAN](https://www.srslte.com/), an open-source project for 5G Radio Access Networks that is widely used in both research and industry. He also shared his experience of developing open-source software in industry.
 
-Check out their GitHub projects 👉 [srsRAN_4G](https://github.com/srsran/srsRAN_4G) and [srsRAN_Project](https://github.com/srsran/srsRAN_Project)
+Check out the GitHub projects of [Software Radio Systems](https://srs.io/) 👉 [srsRAN_4G](https://github.com/srsran/srsRAN_4G) and [srsRAN_Project](https://github.com/srsran/srsRAN_Project)
